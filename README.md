@@ -1,7 +1,8 @@
-# Meu depósito de mídia front-end
+# Depósito de mídia front-end
 
 <h2> Sites para download das imagens/svg
 
+<br>
 
-- https://iconscout.com/
-- https://skillicons.dev/
+* https://iconscout.com/
+* https://skillicons.dev/
