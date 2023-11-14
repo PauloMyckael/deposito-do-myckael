@@ -4,5 +4,6 @@
 
 <br>
 
-* https://iconscout.com/
 * https://skillicons.dev/
+* https://www.flaticon.com/
+* https://iconscout.com/
