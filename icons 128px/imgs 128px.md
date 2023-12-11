@@ -1,1 +1,1 @@
-# Imagens padrões -  512px
+# Imagens -  128px
